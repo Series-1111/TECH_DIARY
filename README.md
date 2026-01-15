@@ -16,3 +16,12 @@ It documents effort, curiosity, and consistency — not perfection.
 - Learned simple commands like pwd, ls, ls -l, mkdir, cd, touch, nano.
 
 Mood: Grounded and motivated.
+
+## Jan 15, 2026
+- Practiced Linux navigation and directory structure
+- Created folders and files using terminal
+- Used nano to edit files
+- Learned how file permissions work using chmod
+- Started understanding Linux from a security perspective
+
+Mood: Curious and steady.
