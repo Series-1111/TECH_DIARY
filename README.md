@@ -25,3 +25,11 @@ Mood: Grounded and motivated.
 - Started understanding Linux from a security perspective
 
 Mood: Curious and steady.
+
+## Jan 16, 2026
+- Learned about Linux users and file ownership
+- Explored file permissions more deeply
+- Understood why open permissions (777) are risky
+- Viewed running processes using ps and top
+
+Mood: More aware of how systems work.
